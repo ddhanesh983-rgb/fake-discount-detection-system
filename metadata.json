@@ -1,0 +1,6 @@
+{
+  "name": "Fake Discount Detection System",
+  "description": "Analyze e-commerce product pricing, verify advertised discounts against historical baselines, and detect misleading promotion practices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
